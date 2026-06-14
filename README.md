@@ -1,102 +1,100 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2D1B69,7B4FD4,2FD4F4&height=200&section=header&text=Gustavo%20Bayer&fontSize=52&fontColor=E0E8FF&fontAlignY=38&desc=kayserbn%20·%20Backend%20Engineer%20·%20AI%20%26%20ML&descAlignY=58&descColor=C4A8FF&animation=twinkling" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B69,50:7B4FD4,100:2FD4F4&height=220&section=header&text=SEU%20NOME&fontSize=60&fontColor=E0E8FF&animation=fadeIn&fontAlignY=38&desc=Python%20%E2%80%A2%20SQL%20%E2%80%A2%20AI%20%E2%80%A2%20ML%20%E2%80%A2%20LLMs&descAlignY=58&descSize=20" alt="Header" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3500&pause=1200&color=2FD4F4&center=true&vCenter=true&width=720&lines=Backend+Engineer+%7C+AI+%26+ML+Enthusiast+%F0%9F%A4%96;Systems+that+think+—+built+from+scratch+%F0%9F%A7%A0;Python+·+SQL+·+Linux+·+LLMs+·+Git;Code+with+intention.+Deploy+with+precision." alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=1000&color=2FD4F4&center=true&vCenter=true&lines=Python+Developer;Data+%26+AI+Engineer;LLMs+%7C+ML+%7C+RAG+%7C+Pipelines" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="https://github.com/kayserbn">
-    <img src="https://img.shields.io/badge/GitHub-12122B?style=for-the-badge&logo=github&logoColor=E0E8FF" />
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com/in/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-2FD4F4?style=for-the-badge&logo=linkedin&logoColor=08081A&labelColor=0F0F22" />
   </a>
-  <a href="https://youtube.com/@Kayserbn">
-    <img src="https://img.shields.io/badge/YouTube-7B4FD4?style=for-the-badge&logo=youtube&logoColor=E0E8FF" />
+  <a href="mailto:SEU-EMAIL">
+    <img src="https://img.shields.io/badge/E--mail-9D6EE8?style=for-the-badge&logo=gmail&logoColor=E0E8FF&labelColor=0F0F22" />
   </a>
-  <a href="https://instagram.com/kayserbn">
-    <img src="https://img.shields.io/badge/Instagram-2D5BE3?style=for-the-badge&logo=instagram&logoColor=E0E8FF" />
-  </a>
-</p>
-
-<br>
+  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=9D6EE8&style=for-the-badge&label=VISITAS" />
+</div>
 
 ---
 
-## ⚡ `whoami`
+### `// sobre mim`
 
-```python
-class Kayserbn:
-    name     = "Gustavo Bayer"
-    alias    = "kayserbn"
-    role     = "Backend Engineer · AI & ML"
-    stack    = ["Python", "SQL", "Linux", "Git", "Docker"]
-    ai_focus = ["LangChain", "HuggingFace", "scikit-learn", "Ollama"]
-    vision   = "Building intelligent backends and pipelines that actually deliver."
-    motto    = "Code with intention. Deploy with precision."
+Olá! Sou **SEU NOME**, desenvolvedor apaixonado por **Python**, **SQL** e **Inteligência Artificial**.
+Meu foco está em construir pipelines de dados robustos, experimentos de Machine Learning e aplicações com **LLMs** que geram impacto real.
 
-    def __repr__(self):
-        return "Engineer who turns complexity into clarity ✦"
-```
-
-<br>
+> *"Transformando dados em decisões e linguagem em soluções."*
 
 ---
 
-## 🛠 Stack
+### `// stack`
 
-**⚙️ Core**
+**Linguagens & Dados**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-2D1B69?style=for-the-badge&logo=python&logoColor=2FD4F4" />
-  <img src="https://img.shields.io/badge/Linux-4C2C9E?style=for-the-badge&logo=linux&logoColor=E0E8FF" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1A3A8F?style=for-the-badge&logo=postgresql&logoColor=5B8CF7" />
-  <img src="https://img.shields.io/badge/Git-2D1B69?style=for-the-badge&logo=git&logoColor=C4A8FF" />
-  <img src="https://img.shields.io/badge/Bash-006B8A?style=for-the-badge&logo=gnubash&logoColor=8EEEFF" />
-</p>
+![Python](https://img.shields.io/badge/Python-9D6EE8?style=for-the-badge&logo=python&logoColor=E0E8FF&labelColor=0F0F22)
+![SQL](https://img.shields.io/badge/SQL-2FD4F4?style=for-the-badge&logo=postgresql&logoColor=08081A&labelColor=0F0F22)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5B8CF7?style=for-the-badge&logo=postgresql&logoColor=E0E8FF&labelColor=0F0F22)
 
-**🤖 AI · ML · LLMs**
+**Ciência de Dados & Machine Learning**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/scikit--learn-4C2C9E?style=for-the-badge&logo=scikitlearn&logoColor=C4A8FF" />
-  <img src="https://img.shields.io/badge/Pandas-1A3A8F?style=for-the-badge&logo=pandas&logoColor=A0C4FF" />
-  <img src="https://img.shields.io/badge/NumPy-2D5BE3?style=for-the-badge&logo=numpy&logoColor=E0E8FF" />
-  <img src="https://img.shields.io/badge/HuggingFace-7B4FD4?style=for-the-badge&logo=huggingface&logoColor=E0E8FF" />
-  <img src="https://img.shields.io/badge/LangChain-006B8A?style=for-the-badge&logo=langchain&logoColor=8EEEFF" />
-  <img src="https://img.shields.io/badge/Ollama-12122B?style=for-the-badge&logo=ollama&logoColor=C4A8FF" />
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-C4A8FF?style=for-the-badge&logo=pandas&logoColor=0F0F22&labelColor=12122B)
+![NumPy](https://img.shields.io/badge/NumPy-A0C4FF?style=for-the-badge&logo=numpy&logoColor=0F0F22&labelColor=12122B)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-00AECF?style=for-the-badge&logo=scikit-learn&logoColor=E0E8FF&labelColor=0F0F22)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-5B8CF7?style=for-the-badge&logo=python&logoColor=E0E8FF&labelColor=0F0F22)
 
-**📦 Ferramentas & Infra**
+**IA & LLMs**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-1A3A8F?style=for-the-badge&logo=docker&logoColor=5B8CF7" />
-  <img src="https://img.shields.io/badge/FastAPI-006B8A?style=for-the-badge&logo=fastapi&logoColor=2FD4F4" />
-  <img src="https://img.shields.io/badge/Jupyter-4C2C9E?style=for-the-badge&logo=jupyter&logoColor=C4A8FF" />
-  <img src="https://img.shields.io/badge/VS%20Code-1A3A8F?style=for-the-badge&logo=visualstudiocode&logoColor=5B8CF7" />
-</p>
+![HuggingFace](https://img.shields.io/badge/HuggingFace-C4A8FF?style=for-the-badge&logo=huggingface&logoColor=0F0F22&labelColor=12122B)
+![LangChain](https://img.shields.io/badge/LangChain-5B8CF7?style=for-the-badge&logo=chainlink&logoColor=E0E8FF&labelColor=0F0F22)
+![OpenAI](https://img.shields.io/badge/OpenAI-9D6EE8?style=for-the-badge&logo=openai&logoColor=E0E8FF&labelColor=0F0F22)
 
-<br>
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-7B4FD4?style=for-the-badge&logo=git&logoColor=E0E8FF&labelColor=0F0F22)
+![Docker](https://img.shields.io/badge/Docker-5B8CF7?style=for-the-badge&logo=docker&logoColor=E0E8FF&labelColor=0F0F22)
+![Jupyter](https://img.shields.io/badge/Jupyter-9D6EE8?style=for-the-badge&logo=jupyter&logoColor=E0E8FF&labelColor=0F0F22)
+![Linux](https://img.shields.io/badge/Linux-A0C4FF?style=for-the-badge&logo=linux&logoColor=0F0F22&labelColor=12122B)
 
 ---
 
-## 📊 GitHub Stats
+### `// foco de pesquisa`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kayserbn&show_icons=true&hide_border=true&bg_color=08081A&title_color=2FD4F4&text_color=C8D0E8&icon_color=9D6EE8&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayserbn&layout=compact&hide_border=true&bg_color=08081A&title_color=2FD4F4&text_color=C8D0E8&langs_count=6&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kayserbn&hide_border=true&background=08081A&stroke=9D6EE8&ring=2FD4F4&fire=C4A8FF&currStreakLabel=2FD4F4&currStreakNum=E0E8FF&sideLabels=A0C4FF&sideNums=E0E8FF&dates=4C6A9E" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kayserbn&bg_color=08081A&color=2FD4F4&line=9D6EE8&point=C4A8FF&area=true&hide_border=true" />
-</p>
-
-<br>
+<table>
+  <tr>
+    <td>🔷 <strong>Large Language Models</strong></td>
+    <td>Fine-tuning · RAG · Prompt Engineering · Agents</td>
+  </tr>
+  <tr>
+    <td>🔹 <strong>Machine Learning</strong></td>
+    <td>Supervised Learning · NLP · Classificação · Regressão</td>
+  </tr>
+  <tr>
+    <td>🔷 <strong>Data Engineering</strong></td>
+    <td>Pipelines · ETL · Analytics · BI</td>
+  </tr>
+  <tr>
+    <td>🔹 <strong>Python & SQL</strong></td>
+    <td>APIs · ORM · Query Optimization · Automação</td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2D1B69,7B4FD4,2FD4F4&height=120&section=footer" />
-</p>
+### `// github stats`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&bg_color=08081A&title_color=9D6EE8&text_color=E0E8FF&icon_color=2FD4F4&ring_color=7B4FD4" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&bg_color=08081A&title_color=9D6EE8&text_color=E0E8FF&icon_color=2FD4F4&langs_count=6" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&hide_border=true&background=08081A&stroke=7B4FD4&ring=9D6EE8&fire=2FD4F4&currStreakNum=E0E8FF&sideNums=E0E8FF&currStreakLabel=9D6EE8&sideLabels=5B8CF7&dates=C8D0E8" width="65%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2FD4F4,50:7B4FD4,100:2D1B69&height=100&section=footer" width="100%" />
+</div>
